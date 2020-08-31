@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1067498784693",
+    "firebase_url": "https://perusal-retical.firebaseio.com",
+    "project_id": "perusal-retical",
+    "storage_bucket": "perusal-retical.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067498784693:android:34e98ffcecbb27cd617bfc",
+        "android_client_info": {
+          "package_name": "com.retical.perusal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067498784693-98ulk1sp0igifu45mftfgj4mkp4vg3hm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.retical.perusal",
+            "certificate_hash": "b4d879b519249d0f0bb6178e0d1b8fdc099e0056"
+          }
+        },
+        {
+          "client_id": "1067498784693-5ol01g9qc2n07bpobmoekbj7pk6dgrmm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyk3QQLbM8aqqPWxmMxirsBCXeeD1Xoug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067498784693-5ol01g9qc2n07bpobmoekbj7pk6dgrmm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
